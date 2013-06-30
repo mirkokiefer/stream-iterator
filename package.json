@@ -2,12 +2,13 @@
   "name": "stream-iterator",
   "version": "0.0.1",
   "description": "transform streams into async iterators",
+  "homepage": "https://github.com/mirkokiefer/stream-iterator",
   "main": "index.js",
   "scripts": {
     "test": "node_modules/.bin/mocha"
   },
   "author": "Mirko Kiefer <mail@mirkokiefer.com>",
-  "license": "BSD",
+  "license": "MIT",
   "dependencies": {
     "async-iterators": "0.0.1"
   }
